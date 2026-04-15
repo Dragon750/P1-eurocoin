@@ -1,0 +1,4 @@
+{ "op": "ingreso", "de": "PedroLuis", "a": "PedroLuis", "cantidad": "20" }
+cc0a5551a31f245bb156607da42a910b885a2d3af50cf941191f8f210bda322b
+{ "op": "recibo", "de": "PedroLuis", "a": "PedroLuis", "cantidad": "20" }
+7d31dc8ee8de0d7edc5be21250f61b6e4b47cc47af10f62973b2a4408a50f72d

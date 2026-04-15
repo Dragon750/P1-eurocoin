@@ -1,0 +1,4 @@
+{ "op": "factura", "de": "AngelAntonio", "a": "PedroLuis", "cantidad": "12,50", "idFactura": "A2026-192288" }
+90b9e4add5acede923c5765b808f99fbcc781a806a64ac2ffe1fc71676a92142
+{ "op": "pago", "de": "PedroLuis", "a": "AngelAntonio", "cantidad": "12,50", "idFactura": "A2026-192288" }
+c7450a7358e24fa75ba6e44ca80c189cb676bbd9d81288fa70603cd1d417630b

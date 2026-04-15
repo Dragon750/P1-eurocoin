@@ -1,0 +1,11 @@
+{
+  "FondosEC": "50",
+  "SecWallet": "Secreto-AngelAntonio",
+  "PasswordSalt": "abcd0987",
+  "MasterKey": "9942koofffo",
+  "usuario": "AngelAntonio",
+  "IngresosEC": "0",
+  "PasswordHash": "d169bb0f45c9dc5480e7ff107ffa9091002ea45204637db0b8c7a97748af402a",
+  "FuncionHash": "SHA-256",
+  "SecBanco": "Secreto-BancoBob"
+}

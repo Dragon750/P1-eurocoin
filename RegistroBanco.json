@@ -1,0 +1,22 @@
+{
+  "BancoBob": {
+    "FondosEC": "50000",
+    "SecWallet": "Secreto-PedroLuis",
+    "MasterKey": "9942koofffo",
+    "SecBanco": "Secreto-BancoBob"
+  },
+  "PedroLuis": {
+    "FondosEC": "0.0",
+    "SecWallet": "Secreto-PedroLuis",
+    "Saldo": "1500.0",
+    "MasterKey": "9942koofffo",
+    "SecBanco": "Secreto-BancoBob"
+  },
+  "AngelAntonio": {
+    "FondosEC": "0.0",
+    "SecWallet": "Secreto-AngelAntonio",
+    "Saldo": "2000.0",
+    "MasterKey": "9942koofffo",
+    "SecBanco": "Secreto-BancoBob"
+  }
+}
